@@ -117,7 +117,7 @@ eb open
 
 **Subhash Govindharaj**
 
-📧 Email: [subhashgovidharaj@gmail.co](mailto:subhashgovindharaj@gmail.com)  
+📧 Email: [subhashgovidharaj@gmail.com](mailto:subhashgovindharaj@gmail.com)  
 🔗 GitHub: [SubhashGovindharaj](https://github.com/SubhashGovindharaj)  
 
 ---
